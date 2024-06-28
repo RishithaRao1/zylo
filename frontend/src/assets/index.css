@@ -1,0 +1,19 @@
+/* Header.module.css */
+.customNavbar {
+    background-color: #c41c1c; /* Sets background color */
+  }
+  
+  .customNavbar .navbar-brand {
+    color: #086972; /* Sets color for Navbar brand */
+    font-size: 24px; /* Adjusts font size */
+  }
+  
+  .customNavbar .nav-link {
+    color: #053d42; /* Sets color for Nav links */
+    font-size: 18px; /* Adjusts font size */
+  }
+  
+  .customNavbar .nav-link:hover {
+    color: #0b95a2; /* Sets color on hover */
+  }
+  
