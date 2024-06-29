@@ -9,6 +9,7 @@ const products = [
     price: 35.00,
     rating: 4,
     numReviews: 120,
+    countInStock: '00',
   },
   {
     _id: '2',
@@ -20,6 +21,7 @@ const products = [
     price: 25.00,
     rating: 3,
     numReviews: 85,
+    countInStock: '00',
   },
   {
     _id: '3',
@@ -31,6 +33,7 @@ const products = [
     price: 30.00,
     rating: 5,
     numReviews: 200,
+    countInStock: 5,
   },
   {
     _id: '4',
@@ -42,6 +45,7 @@ const products = [
     price: 20.00,
     rating: 4,
     numReviews: 150,
+    countInStock: 15,
   },
   {
     _id: '5',
@@ -53,6 +57,7 @@ const products = [
     price: 40.00,
     rating: 5,
     numReviews: 180,
+    countInStock: 3,
   },
   {
     _id: '6',
@@ -64,6 +69,7 @@ const products = [
     price: 40.00,
     rating: 4,
     numReviews: 130,
+    countInStock: 8,
   },
   {
     _id: '7',
@@ -75,6 +81,7 @@ const products = [
     price: 25.00,
     rating: 4,
     numReviews: 100,
+    countInStock: 20,
   },
   {
     _id: '8',
@@ -86,6 +93,7 @@ const products = [
     price: 28.00,
     rating: 4,
     numReviews: 110,
+    countInStock: 10,
   },
   {
     _id: '9',
@@ -97,6 +105,7 @@ const products = [
     price: 45.00,
     rating: 4,
     numReviews: 90,
+    countInStock: 0,
   },
   {
     _id: '10',
@@ -108,6 +117,7 @@ const products = [
     price: 45.00,
     rating: 3,
     numReviews: 70,
+    countInStock: 4,
   },
   {
     _id: '11',
@@ -119,6 +129,7 @@ const products = [
     price: 40.00,
     rating: 4,
     numReviews: 120,
+    countInStock: 6,
   },
   {
     _id: '12',
@@ -130,6 +141,7 @@ const products = [
     price: 30.00,
     rating: 5,
     numReviews: 160,
+    countInStock: 2,
   },
 ];
 
