@@ -2,6 +2,15 @@ main {
   min-height: 80vh;
 }
 
+.product-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 90%;
+  margin-bottom: 20px;
+  
+}
+
 .rating span {
   margin: 0.1rem;
 }
